@@ -3,12 +3,19 @@ ESTRUCTURAS DE DATOS
       ARREGLOS-> son un espacio de memoria que alamcena multiples valores.
                 - conjunto de datos de cualquier tipo. 
                 - los arreglos pueden ser vacios, que despues almacenara informacion
+                ___ Normalmente se asocia a una estrucutura de repeticion o un siclo ( for )
 
                 TAMAÑO --> hace referencia a la cantidad de elemetos dentro del arreglo 
                 POSICION --> hace referencia a la cantidad de elementos -1.
                              Para mostrar la POSICION se debe agregar [] y dentro el numero de la POSICION que se quiere  mostrar.
                              solo se puede mostrar una POSICION a la vez.
                              Se puede realizar operaciones entre las posiciones 
+
+    RECORRIDO EN LOS ARREGLOS --> se utiliza para buscar informacion.
+                              --> con esa infromacion se puede realizra cualquier operacion 
+
+                            
+    LLENADO EN LOS ARREGLOS --> se utiliza para alimentar el arreglo de informacion                          
 
 
             
