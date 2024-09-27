@@ -1,0 +1,15 @@
+ESTRUCTURAS DE DATOS
+
+      ARREGLOS-> son un espacio de memoria que alamcena multiples valores.
+                - conjunto de datos de cualquier tipo. 
+                - los arreglos pueden ser vacios, que despues almacenara informacion
+
+                TAMAÑO --> hace referencia a la cantidad de elemetos dentro del arreglo 
+                POSICION --> hace referencia a la cantidad de elementos -1.
+                             Para mostrar la POSICION se debe agregar [] y dentro el numero de la POSICION que se quiere  mostrar.
+                             solo se puede mostrar una POSICION a la vez.
+                             Se puede realizar operaciones entre las posiciones 
+
+
+            
+
